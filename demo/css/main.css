@@ -1,0 +1,12 @@
+/*  ==========================
+*   Document   : main.css
+*   Created on : 05 December 2013
+*   Author     : Breith Barbot
+* ============================ */
+
+
+div#exclude {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}

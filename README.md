@@ -4,7 +4,7 @@
 
 The [jQuery library](http://jquery.com/) is required to run this script
 
-The [Twitter Bootstrap Framework](http://getbootstrap.com/) is also required
+The [Twitter Bootstrap Framework](http://getbootstrap.com/) is also required for demo folder
 
 
 It prevents the right click

@@ -4,9 +4,18 @@
 *   Author     : Breith Barbot
 * ============================ */
 
-
 div#exclude {
     width: 200px;
     height: 200px;
     background-color: blue;
+}
+
+.custom-rclick {
+    z-index: 10000;
+    position: absolute;
+    background: rgba(0, 0, 0, .75);
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 5px 10px;
+    color: #ffffff;
 }

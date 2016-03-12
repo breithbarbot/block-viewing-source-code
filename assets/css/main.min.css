@@ -1,0 +1,7 @@
+div#exclude { width : 200px; height : 200px; background-color : #00F }
+
+.custom-rclick { z-index : 10000; position : absolute; background : rgba(0, 0, 0, .75); border : 1px solid #000; border-radius : 3px; padding : 5px 10px; color : #FFF }
+
+ul { padding-left : 0; margin-bottom : 0 }
+
+ul li { list-style : none }

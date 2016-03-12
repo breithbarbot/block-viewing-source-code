@@ -19,3 +19,12 @@ div#exclude {
     padding: 5px 10px;
     color: #ffffff;
 }
+
+ul {
+    padding-left  : 0;
+    margin-bottom : 0;
+}
+
+ul li {
+    list-style : none;
+}

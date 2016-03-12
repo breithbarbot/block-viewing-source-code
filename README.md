@@ -28,17 +28,17 @@ Standard normal keyboard (Windows / Linux / ...) and keyboard Mac (Apple)
 Usage Instructions
 ======
 
-1. Use this file in the folder as demo model.
+1. Use this index.php file.
 
-2. If you want to try local, disabled / modify the condition in the file badipclients.php and blkviewsrccode.js
+2. Simulate a key combination or press the right mouse click
 
-3. When your production, do not forget to comment the lines on the IP condtion locally in the file blkviewsrccode.js
+3. A file "file_badipclients.txt" will be created if you answer the wrong answer ;)
 
 
 Version
 ======
 
-Block viewing source code 0.3
+Block viewing source code 1.0
 
 
- - Copyright 2013 Breith Barbot | [Breithbarbot.com](http://breithbarbot.com/)
+ - Copyright 2016 Breith Barbot | [Breithbarbot.name](http://breithbarbot.name/)
